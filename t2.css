@@ -1,0 +1,13 @@
+table {
+	font-size: 30px;
+	width: 40%;
+	margin-left: 30%;
+	border: 7px solid rgb(79, 80, 76);
+	text-align: center;
+}
+#r1 {
+	text-align: center;
+}
+body {
+	border-color: azure;
+}

@@ -1,0 +1,18 @@
+#win {
+	text-align: center;
+	color: rgb(76, 255, 255);
+	font-size: 60px;
+}
+body {
+	background-image: url(glassmorphism-cover-background-blured-matte-backdrop-liquid-shapes-vector-template-illustration_505956-298.avif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#e1 {
+	text-align: center;
+	color: aqua;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 20px;
+	padding: 10px 20px;
+}
